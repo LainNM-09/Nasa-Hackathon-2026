@@ -1,0 +1,23 @@
+# Secrets and private notes
+.env
+Ignorar/
+
+# Generated data (inventory snapshots, DuckDB)
+data/
+# Review samples with verbatim quotes from sources of mixed licence (regenerate with kaggle/mass_sample.py)
+reviews/queue/m4_mass_sample_*.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+build/
+dist/
+*.egg-info/
+
+.claude# Review files with verbatim source text: kept local; the .ids copies (identifiers + hashes) are versioned
+reviews/reference_set/annotation_sheet.csv
+reviews/queue/m5_seed_queue.yaml

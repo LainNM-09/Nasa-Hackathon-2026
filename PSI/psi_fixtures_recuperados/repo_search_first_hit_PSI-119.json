@@ -1,0 +1,50 @@
+{
+  "_index": "investigation",
+  "_type": "docs",
+  "_id": "c5PLTpkB2i8RnBodTivB",
+  "_score": 0.035410527,
+  "_source": {
+    "Accession": "PSI-119",
+    "Public Release Date": 1757894400.0,
+    "Thumbnail": "/geode-py/ws/investigations/PSI-119/image",
+    "Title": "Enhanced Particle Tracking in STDC Data and Its Industrial Application of Marangoni Convection",
+    "Person": {
+      "Last Name": "Jung Hasan",
+      "Middle Initials": " M.",
+      "First Name": "Sunghwan Mohammad"
+    },
+    "Keywords": "STDCE     Particle tracking analysis     thermo-fluid mechanics     Marangoni convection",
+    "Acronym": "",
+    "Flight Platform": "",
+    "Research Area": "Fluid Physics",
+    "SubResearch Area": "Capillary flow",
+    "Related Investigations": "PSI-108     PSI-109",
+    "Project Type": "Ground Investigation",
+    "Proposal Title": "Enhanced Particle Tracking in STDC Data and Its Industrial Application of Marangoni Convection",
+    "Investigation Start Date": "11-25-2020",
+    "Investigation End Date": "11-24-2022",
+    "Sponsoring Agency": "National Aeronautics and Space Administration (NASA)  PSI Grant",
+    "Monitoring Center": "Glenn Research Center (GRC)",
+    "Funding Source": "80NSSC21K0287",
+    "Objectives": "The primary objective this grant was to extract and understand the detailed thermo-fluid mechanics of the original NASA Surface Tension Driven Convection Experiment (STDCE-1) performed in microgravity, using modern diagnostic and computational tools. The study aims to revitalize the original video data found in PSI by applying advanced Particle Image Velocimetry (PIV) and Particle Tracking Velocimetry (PTV) methods, which provide higher resolution, sub-pixel accuracy, and robust flow field extraction compared to the limited analyses available in the early 1990s. By systematically comparing velocity and pressure fields obtained from these reanalyzed datasets with theoretical perturbation methods and COMSOL Multiphysics computational models, the project seeks to isolate the fundamental role of Marangoni convection and interfacial curvature in driving oscillatory and steady-state flows. Complementary ground-based experiments incorporating gravitational effects will be conducted to disentangle the relative contributions of buoyancy and surface tension-driven convection. These objectives ultimately support both NASA’s PSI solicitation  by expanding the scientific return from legacy datasets and advancing applied understanding for industrial processes that rely on controlled Marangoni flows, such as wafer drying, thin-film coating, and microfluidic device operation.",
+    "Approach": "The approach combined archival microgravity data analysis, computational modeling, and ground experiments to study surface tension driven convection (STDC). Video data from the original NASA STDCE-1 experiments were re-analyzed using several modern particle tracking techniques, including four MATLAB-based codes, three ImageJ-based codes, and sub-pixel localization methods, to produce velocity and pressure fields. These flow fields were compared with theoretical models derived from perturbation methods and with computational simulations performed in COMSOL Multiphysics® v5.6 that incorporated boundary conditions and curved free-surface geometries. In parallel, ground-based STDC experiments were carried out to examine gravitational effects and to distinguish buoyancy-driven flows from thermocapillary convection. This combination of data reanalysis, numerical simulation, and experimental testing provided a means to identify the influence of interfacial curvature, surface stresses, and geometry on Marangoni convection.",
+    "Hypothesis": "Re-analyzing NASA’s STDCE-1 microgravity video data with advanced particle tracking and computational modeling to reveal previously inaccessible details of thermo-fluid mechanics in surface tension driven convection. These insights, validated against ground-based experiments, aimed to clarify the interplay between Marangoni forces, interfacial curvature, and flow instabilities, leading to improved predictive models of thermocapillary flows.",
+    "Research Impacts/Earth Benefits": "Space Benefits: Improves understanding of thermocapillary convection in microgravity, critical for designing reliable thermal management and materials processing systems aboard spacecraft. Provides validated numerical and theoretical models that can guide future ISS and space-based fluid physics experiments, reducing uncertainty from prior low-resolution analyses.\nEarth Benefits: Supports industrial applications such as semiconductor wafer cleaning, thin-film coatings, welding, and liquid crystal display fabrication. Findings also translate to emerging fields like active matter and micro/nano robotics, where Marangoni flows and surface interactions could be harnessed for medical diagnostics, targeted drug delivery, and microplastics removal.",
+    "Experiment Hardware": {
+      "Name": "",
+      "Link": ""
+    },
+    "Publication Author List": "Jung  Sunghwan     Sequeira Y  Maitra A  Pandey A  Jung S.     Abhradeep Maitra  Anupam Pandey  Sebastien Michelin  Sunghwan Jung",
+    "Publication Title": "Transient behavior of a Marangoni swimmer (2022)     Revisiting the NASA surface tension driven convection experiments (2022)     Marangoni swimmer pushing particle raft under 1D confinement",
+    "Data Source Type": "psi"
+  },
+  "highlight": {
+    "all": [
+      "<em>PSI</em>-119",
+      "<em>PSI</em>-108     <em>PSI</em>-109",
+      "National Aeronautics and Space Administration (NASA)  <em>PSI</em> Grant",
+      "The study aims to revitalize the original video data found in <em>PSI</em> by applying advanced Particle Image",
+      "These objectives ultimately support both NASA’s <em>PSI</em> solicitation  by expanding the scientific return"
+    ]
+  }
+}
